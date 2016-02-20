@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="SuperCar\SuperCar.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ActiveRuntime="Mono 4.2.1 (Visual)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperCar\SuperCar.cs">
+    <Files>
+      <File FileName="SuperCar\SuperCar.cs" Line="41" Column="42" />
+      <File FileName="SuperCar\PIDController.cs" Line="32" Column="37" />
+      <File FileName="SuperCar\Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
